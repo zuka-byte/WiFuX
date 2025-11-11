@@ -127,10 +127,10 @@ Portfolio: [https://msrsakibur.netlify.app](https://msrsakibur.netlify.app)
 
 <div align="center">
 <h3>━━━━ Connect with me ━━━━</h3>
-<a href="https://fb.com/sakibur.msr" target="_blank">
+<a href="https://facebook.com/zukazuboraj" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
-<a href="https://github.com/msrofficial">
+<a href="https://github.com/zuka-byte">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=msrofficial.wifux" alt="Visitor Count" />
 </a>
 </div>
@@ -139,7 +139,7 @@ Portfolio: [https://msrsakibur.netlify.app](https://msrsakibur.netlify.app)
 
 ## 📦 Repository
 
-[GitHub Repo](https://github.com/msrofficial/WiFuX)
+[GitHub Repo](https://github.com/zuka-byte/WiFuX)
 
 ---
 
