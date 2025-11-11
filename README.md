@@ -1,4 +1,4 @@
-# 📶 WiFuX - WiFi Hacker Tool
+# 📶 WiFuX - WiFi Hacking Tool (Rooted Phone)
 
 ### 🔥 Hack WiFi Using Termux (Requires Root)  
 A powerful **WiFi hacking tool** designed for ethical use to test the security of wireless networks using **WPS vulnerabilities**, including **Pixie Dust Attack**, **Brute-force Attack**, and more.
