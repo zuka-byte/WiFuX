@@ -25,7 +25,9 @@ pkg install root-repo -y
 ```bash
 pkg install git tsu python wpa-supplicant pixiewps iw -y
 ```
-
+```bash
+pkg install sudo -y
+```
 ```bash
 git clone https://github.com/msrofficial/WiFuX
 ```
@@ -39,9 +41,11 @@ pip3 install -r requirements.txt
 ```
 
 ```bash
-chmod +x main.py && install.sh
+chmod +x main.py
 ```
-
+```bash
+chmod +x install.sh
+```
 ```bash
 ./install.sh
 ```
