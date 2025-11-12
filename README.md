@@ -1,4 +1,4 @@
-# 📶 WiFuX - WiFi Hacking Tool (Rooted Phone)
+ # 📶 WiFuX - WiFi Hacking Tool (Rooted Phone)
 
 ### 🔥 Hack WiFi Using Termux (Requires Root)  
 A powerful **WiFi hacking tool** designed for ethical use to test the security of wireless networks using **WPS vulnerabilities**, including **Pixie Dust Attack**, **Brute-force Attack**, and more.
@@ -117,8 +117,8 @@ Make sure:
 ## 🧑‍💻 Decompiler
 
 **Zuka Zuboraj (Zuk)**  
-GitHub: [@msrofficial](https://github.com/zuka-byte)  
-Facebook: [sakibur.msr](https://facebook.com/zukazuboraj)  
+GitHub: [zuka-byte](https://github.com/zuka-byte)  
+Facebook: [Zuka Zuboraj](https://facebook.com/zukazuboraj)  
 
 ---
 
