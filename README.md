@@ -119,7 +119,6 @@ Make sure:
 **Zuka Zuboraj (Zuk)**  
 GitHub: [@msrofficial](https://github.com/zuka-byte)  
 Facebook: [sakibur.msr](https://facebook.com/zukazuboraj)  
-Portfolio: [https://msrsakibur.netlify.app](https://msrsakibur.netlify.app)
 
 ---
 
