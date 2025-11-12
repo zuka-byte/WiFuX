@@ -114,11 +114,11 @@ Make sure:
 
 ---
 
-## 🧑‍💻 Author
+## 🧑‍💻 Decompiler
 
-**MD Sakibur Rahman (MSR)**  
-GitHub: [@msrofficial](https://github.com/msrofficial)  
-Facebook: [sakibur.msr](https://facebook.com/sakibur.msr)  
+**Zuka Zuboraj (Zuk)**  
+GitHub: [@msrofficial](https://github.com/zuka-byte)  
+Facebook: [sakibur.msr](https://facebook.com/zukazuboraj)  
 Portfolio: [https://msrsakibur.netlify.app](https://msrsakibur.netlify.app)
 
 ---
