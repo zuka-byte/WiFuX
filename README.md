@@ -31,6 +31,9 @@ pkg install git tsu python wpa-supplicant pixiewps iw -y
 pkg install sudo -y
 ```
 ```bash
+sudo su
+```
+```bash
 git clone https://github.com/zuka-byte/WiFuX
 ```
 
