@@ -24,7 +24,6 @@ pkg install python-pip
 pkg install root-repo -y
 ```
 
-```
 ```bash
 pkg install tsu
 ```
