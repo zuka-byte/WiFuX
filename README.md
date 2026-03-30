@@ -5,7 +5,7 @@ A powerful **WiFi hacking tool** designed for ethical use to test the security o
 
 ---
 
-## 🛠 Manual Installation
+## 🛠 If Single Command Not Working Manual Installation
 
 ```bash
 pkg update && pkg upgrade -y
@@ -24,15 +24,17 @@ pkg install python-pip
 pkg install root-repo -y
 ```
 
+```
 ```bash
-pkg install git tsu python wpa-supplicant pixiewps iw -y
+pkg install tsu
+```
+```bash
+pkg install python
 ```
 ```bash
 pkg install sudo -y
 ```
-```bash
-sudo su
-```
+
 ```bash
 git clone https://github.com/zuka-byte/WiFuX
 ```
@@ -41,7 +43,7 @@ git clone https://github.com/zuka-byte/WiFuX
 cd WiFuX
 ```
 
-```bash
+```tsu
 pip3 install -r requirements.txt
 ```
 
