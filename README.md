@@ -28,9 +28,6 @@ pkg install root-repo -y
 pkg install tsu
 ```
 ```bash
-pkg install python
-```
-```bash
 pkg install sudo -y
 ```
 
