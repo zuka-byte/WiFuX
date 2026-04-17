@@ -4,8 +4,12 @@
 A powerful **WiFi hacking tool** designed for ethical use to test the security of wireless networks using **WPS vulnerabilities**, including **Pixie Dust Attack**, **Brute-force Attack**, and more.
 
 ---
+##Single Command👇
+```bash
+curl -sLo installer.sh https://raw.githubusercontent.com/msrofficial/WiFuX/main/installer.sh && bash installer.sh
+```
 
-## 🛠 If Single Command Not Working Manual Installation
+## 🛠 If Single Command Not Working Manual Installation👇
 
 ```bash
 pkg update && pkg upgrade -y
@@ -58,6 +62,7 @@ Restart your Termux and run:
 ```bash
 wifux
 ```
+## If show (Are you rooted? Past This)👇
 ```bash
 wifux fix - latest magisk
 ```
