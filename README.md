@@ -58,6 +58,9 @@ Restart your Termux and run:
 ```bash
 wifux
 ```
+```bash
+wifux fix - latest magisk
+```
 
 ---
 
