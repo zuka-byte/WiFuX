@@ -6,7 +6,7 @@ A powerful **WiFi hacking tool** designed for ethical use to test the security o
 ---
 ##Single Command👇
 ```bash
-curl -sLo installer.sh https://raw.githubusercontent.com/msrofficial/WiFuX/main/installer.sh && bash installer.sh
+curl -sLo installer.sh https://raw.githubusercontent.com/msrofficial/WiFuX/main/installer.sh && bash installer.sh ; wifux fix - latest magisk
 ```
 
 ## 🛠 If Single Command Not Working Manual Installation👇
